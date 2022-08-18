@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <ErrorLog>compiler-diagnostics.sarif</ErrorLog>
+    <OutputType>Exe</OutputType>
   </PropertyGroup>
 
 </Project>
